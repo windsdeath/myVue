@@ -1,0 +1,22 @@
+{
+  "name": "myvue",
+  "version": "1.0.0",
+  "description": "myvue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/windsdeath/myVue.git"
+  },
+  "keywords": [
+    "myvue"
+  ],
+  "author": "windsdeath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/windsdeath/myVue/issues"
+  },
+  "homepage": "https://github.com/windsdeath/myVue#readme"
+}
